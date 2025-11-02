@@ -163,7 +163,7 @@ Then open `frontend/index.html` in your browser.
 
 ## 👨‍💻 Developer
 
-**Developed by:** [Your Name]
+**Developed by:** Varshu H R
 **Role:** Full-Stack Web Developer
 **Focus Areas:** Node.js • Express.js • MySQL • JavaScript • REST APIs
 
